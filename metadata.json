@@ -1,0 +1,6 @@
+{
+  "name": "Convite Jhenifer e Davi",
+  "description": "Um convite digital de casamento premium, sofisticado e responsivo para Jhenifer e Davi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
